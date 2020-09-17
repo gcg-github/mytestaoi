@@ -1,0 +1,1 @@
+include ':app', ':my_an_lib', ':my_apt_lib'
